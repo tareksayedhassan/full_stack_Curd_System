@@ -1,0 +1,119 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Introduction to AI",
+      "description": "Learn the basics of artificial intelligence and its applications."
+    },
+    {
+      "id": "2",
+      "title": "Web Development Tips",
+      "description": "Essential tips for becoming a proficient web developer."
+    },
+    {
+      "id": "3",
+      "title": "Healthy Eating Habits",
+      "description": "Discover the benefits of maintaining a balanced diet."
+    },
+    {
+      "id": "4",
+      "title": "Traveling on a Budget",
+      "description": "How to explore the world without breaking the bank."
+    },
+    {
+      "id": "5",
+      "title": "The Future of Renewable Energy",
+      "description": "Exploring the advancements in renewable energy technologies."
+    },
+    {
+      "id": "6",
+      "title": "Mindfulness and Meditation",
+      "description": "Techniques to improve mental health through mindfulness."
+    },
+    {
+      "id": "7",
+      "title": "Cybersecurity Essentials",
+      "description": "Protect your digital life with these cybersecurity tips."
+    },
+    {
+      "id": "8",
+      "title": "The Art of Public Speaking",
+      "description": "Master the skills needed to captivate any audience."
+    },
+    {
+      "id": "9",
+      "title": "Sustainable Living",
+      "description": "How to live a more eco-friendly lifestyle."
+    },
+    {
+      "id": "10",
+      "title": "The Rise of Remote Work",
+      "description": "Understanding the shift towards remote working environments."
+    },
+    {
+      "id": "11",
+      "title": "Exploring Space Exploration",
+      "description": "The latest in space technology and exploration missions."
+    },
+    {
+      "id": "12",
+      "title": "The Importance of Sleep",
+      "description": "How quality sleep affects your overall health."
+    },
+    {
+      "id": "13",
+      "title": "Creative Writing Techniques",
+      "description": "Unlock your creative potential with these writing tips."
+    },
+    {
+      "id": "14",
+      "title": "The World of Cryptocurrency",
+      "description": "An introduction to the dynamic world of digital currencies."
+    },
+    {
+      "id": "15",
+      "title": "Effective Time Management",
+      "description": "Strategies to maximize productivity and manage time efficiently."
+    },
+    {
+      "id": "16",
+      "title": "The Benefits of Yoga",
+      "description": "How yoga can improve your physical and mental well-being."
+    },
+    {
+      "id": "17",
+      "title": "Understanding Blockchain Technology",
+      "description": "A beginner's guide to blockchain and its uses."
+    },
+    {
+      "id": "18",
+      "title": "The Impact of Social Media",
+      "description": "Analyzing how social media influences modern society."
+    },
+    {
+      "id": "19",
+      "title": "Learning a New Language",
+      "description": "Tips and tricks for mastering a new language quickly."
+    },
+    {
+      "id": "20",
+      "title": "The Evolution of E-commerce",
+      "description": "How online shopping has transformed the retail industry."
+    },
+    {
+      "id": "211",
+      "title": "formik",
+      "description": "formik"
+    },
+    {
+      "id": "33",
+      "title": "hello formik",
+      "description": "set hello formik"
+    },
+    {
+      "id": "263",
+      "title": "hello world",
+      "description": "if you love me "
+    }
+  ]
+}
